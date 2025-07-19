@@ -3,6 +3,8 @@
 📈 This project showcases a **Retail Sales Analysis** dashboard created using **Microsoft Excel**, with data prepared and cleaned using **SQL**.  
 It provides a deep dive into sales trends, top-performing categories, and store performance across different regions.
 
+
+![Dashboard Preview](DASHBOARD.jpg)
 ---
 
 ## 📁 Files & Folders Included
